@@ -1,4 +1,4 @@
-##https://i.pinimg.com/1200x/81/59/e0/8159e00bf1b72ec93bce8e002d9edc72.jpg
+##<img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/e79e9952-4ad4-49db-a52e-6025e0972089" />
 
 <!--
 **Mariana-monteiro1409/Mariana-monteiro1409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
