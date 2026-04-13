@@ -12,7 +12,7 @@
 <h3 align="left">💫 About Me</h3>
 <p>
   <div align="left">
-  🌱 Atualmente estou começando na área de programação skills.<br>
+  🌱 Atualmente estou começando na área de programação.<br>
   💬  Skills I acquire in programming languages such as Python.<br>
   ⚡ Tenho interesse na área de automação e back-and.<br>
   </divisão>
