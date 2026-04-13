@@ -1,5 +1,4 @@
-<img width="1080" height="608" alt="Inserir um título" src="https://github.com/user-attachments/assets/030cf38e-40a8-4540-aa08-aea8eabd9c62" />
-
+<img width="658" height="371" alt="image" src="https://github.com/user-attachments/assets/f4d93ddb-075e-47a6-9ffe-0c80f02449bc" />
 
 
 __________________________________________________________________________________________________________________________________________
