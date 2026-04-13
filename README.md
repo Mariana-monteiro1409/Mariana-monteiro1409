@@ -1,6 +1,5 @@
 <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/e79e9952-4ad4-49db-a52e-6025e0972089" />
 
 
-𝓤𝓶 𝓹𝓸𝓾𝓬𝓸 𝓼𝓸𝓫𝓻𝓮 𝓶𝓲𝓶
-
+Ｕｍ ｐｏｕｃｏ ｓｏｂｒｅ ｍｉｍ
   :star2:Sou uma estudante de programação da Alura dando seu primeiros passos na área de back-and:computer:
