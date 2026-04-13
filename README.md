@@ -4,7 +4,7 @@
 
 
 █░█ █▀▄▀█   █▀█ █▀█ █░█ █▀▀ █▀█   █▀ █▀█ █▄▄ █▀█ █▀▀   █▀▄▀█ █ █▀▄▀█
- █▄█ █░▀░█   █▀▀ █▄█ █▄█ █▄▄ █▄█   ▄█ █▄█ █▄█ █▀▄ ██▄   █░▀░█ █ █░▀░█
+   █▄█ █░▀░█   █▀▀ █▄█ █▄█ █▄▄ █▄█   ▄█ █▄█ █▄█ █▀▄ ██▄   █░▀░█ █ █░▀░█
 
 
   :star2: Sou uma estudante de programação da Alura dando seu primeiros passos na área de back-and :computer:
