@@ -1,6 +1,9 @@
 <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/3fb09c77-85b6-47b5-9583-a831a6f19366" />
 
-<h1 style="color:#00AEEF;">MasterJudah here 🔥 !</h1>
+<span style="color:#00AEEF; font-family:Arial, Helvetica, sans-serif; font-size:32px; font-weight:bold;">
+MasterJudah here 🔥 !
+</span>
+
 
 __________________________________________________________________________________________________________________________________________
 
